@@ -1,0 +1,4 @@
+
+username : Amaliaputri
+password direktori : Amaliaputri.48
+directori : /public_html/coba/4bitsproduction
